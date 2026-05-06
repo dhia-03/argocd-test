@@ -1,3 +1,2 @@
-replicaCount: 0
-
+replicaCount: 1
 image: nginx:1.25
